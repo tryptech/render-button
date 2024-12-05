@@ -162,7 +162,4 @@ cython_debug/
 render_button.py
 blender_vscode_development/
 .vscode/
-<<<<<<< HEAD
 render-button.zip
-=======
->>>>>>> b474a167ea010a145def2fcc817b3f7435ee87c6
